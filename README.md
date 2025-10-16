@@ -4,7 +4,7 @@
 This repository supports my 7-10 minute presentation on the XZ Utils backdoor, including a recap of the backdoor, the mechanism for the backdoor via release tarballs, and relevant supply-chain mitigations.
 
 ## Materials
-- **Slides (PDF):** ./slides/Progetto_finale.pdf
+- **Slides (PDF):** A Near-Miss in the Supply Chain: The XZ Utils Backdoor (CVE-2024-3094).pdf
 - **References:** ./References.md
 - **Video (Unlisted):** [youtube-link](https://youtu.be/hZiRb05Liw0)
 
